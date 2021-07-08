@@ -16,6 +16,6 @@ The program could easily be expanded to do more indepth functions such as writin
 
 ## Credits
 [@Pytrex](https://github.com/Pytrex) for harassing me to do some nissan stuff.   
-[@fenugrec](https://github.com/fenugrec) For basically jumpstarting the whole Open-source Nissan movement.
+[@fenugrec](https://github.com/fenugrec) For basically jumpstarting the whole Open-source Nissan movement.   
 [@BrianHumlicek](https://github.com/BrianHumlicek) for the J2534-Sharp library.   
 [Romraider](https://Romraider.com) for having so much information available!
